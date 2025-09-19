@@ -1,5 +1,12 @@
 # Rusleo Voxel Pathfinding
 ![Pathfinding Demo](Documentation~/Media/Preview.gif)
+---
+![LOD Grid Example](Documentation~/Media/Demo_0.png)
+![LOD Grid Example](Documentation~/Media/Demo_1.png)
+![LOD Grid Example](Documentation~/Media/Demo_2.png)
+![LOD Grid Example](Documentation~/Media/Demo_3.png)
+![LOD Grid Example](Documentation~/Media/Demo_4.png)
+---
 Воксельная система поиска пути для 3D‑сцен в Unity с поддержкой **LOD**, гибридной **статической/динамической** сетки, построением графа и сглаживанием траекторий (Bezier/сплайны). Проект включает наглядные **Gizmos**‑визуализаторы и демо‑скрипты перемещения (пчёлы).
 
 ## 🧠 Ключевые возможности
@@ -52,12 +59,6 @@
 - Оптимизировать маршрут: избегать «прохода через центр» вокселей при формировании опорных точек.  
 - Уточнить и документировать кривые **Bezier/сплайны** (выбор степеней, генерацию узловых векторов, параметризацию по длине дуги).
 
----
-![LOD Grid Example](Documentation~/Media/Demo_0.png)
-![LOD Grid Example](Documentation~/Media/Demo_1.png)
-![LOD Grid Example](Documentation~/Media/Demo_2.png)
-![LOD Grid Example](Documentation~/Media/Demo_3.png)
-![LOD Grid Example](Documentation~/Media/Demo_4.png)
 ---
 
 ✦ Автор: [Rusleo](https://github.com/razrabVkedah)
