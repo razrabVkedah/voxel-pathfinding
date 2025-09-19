@@ -1,6 +1,7 @@
 # Rusleo Voxel Pathfinding
+
 Воксельная система поиска пути для 3D‑сцен в Unity с поддержкой **LOD**, гибридной **статической/динамической** сетки, построением графа и сглаживанием траекторий (Bezier/сплайны). Проект включает наглядные **Gizmos**‑визуализаторы и демо‑скрипты перемещения (пчёлы).
----
+
 ![Pathfinding Demo](Documentation~/Media/Preview.gif)
 ---
 ![LOD Grid Example](Documentation~/Media/Demo_0.png)
