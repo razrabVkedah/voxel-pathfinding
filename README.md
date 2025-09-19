@@ -23,7 +23,7 @@
 Через Unity Package Manager → *Add package from git URL...*:
 
 ```
-https://github.com/razrabVkedah/com.rusleo.voxel-pathfinding.git
+https://github.com/razrabVkedah/voxel-pathfinding.git
 ```
 
 ---
