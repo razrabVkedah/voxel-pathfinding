@@ -1,0 +1,33 @@
+﻿{
+  "name": "com.rusleo.voxel-pathfinding",
+  "version": "0.1.0",
+  "displayName": "Rusleo.VoxelPathfinding",
+  "description": "Воксельная система поиска пути с LOD, построением графа, A* и сглаживанием траекторий. Включает Gizmos-визуализацию и демо-агентов (пчёлы).",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "pathfinding",
+    "voxel",
+    "graph",
+    "a*",
+    "navigation",
+    "grid",
+    "unity"
+  ],
+  "author": {
+    "name": "Rusleo",
+    "url": "https://github.com/razrabVkedah"
+  },
+  "samples": [
+    {
+      "displayName": "Voxel Pathfinding Demo",
+      "description": "Примеры использования: генерация сетки, построение графа, поиск пути, BeeMover.",
+      "path": "Samples~/Demo"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/razrabVkedah/com.rusleo.voxel-pathfinding.git"
+  },
+  "license": "MIT"
+}
